@@ -9,7 +9,7 @@
   <a href="https://panxulab.github.io/">Pan Xu</a>
 </p>
 <p align="center">
-Duke University (<sup>*</sup> indicates equal contribution)
+Duke University ( <sup>*</sup> indicates equal contribution)
 </p>
 This repo contains code for training randomized exploration strategies for DQN in our work on Randomized Exploration in Cooperative Multi-Agent
 Reinforcement Learning. We build heavily on the repo for our N-chain problems: [Explorer](https://github.com/qlan3/Explorer/tree/master) for baseline comparison.
