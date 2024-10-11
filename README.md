@@ -9,7 +9,7 @@
   <a href="https://panxulab.github.io/">Pan Xu</a>
 </p>
 <p align="center">
-Duke University ( <sup>*</sup> indicates equal contribution)
+Duke University (<sup>*</sup> indicates equal contribution)
 </p>
 Official implementation of the paper "Randomized Exploration in Cooperative Multi-Agent Reinforcement Learning" with both Perturbed-History Exploration and Langevin Monte Carlo Exploration in a multi-agent setting.
 
