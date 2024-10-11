@@ -1,3 +1,16 @@
+# Randomized Exploration in Cooperative Multi-Agent Reinforcement Learning
+
+### <p align="center">[NeurIPS 2024]</p>
+
+<p align="center">
+  <a href="https://hlhsu.github.io/">Hao-Lun Hsu</a><sup>*</sup> ·
+  <a href="https://scholar.google.com/citations?user=WluAK5cAAAAJ&hl=zh-CN">Weixin Wang</a><sup>*</sup> ·
+  <a href="https://hlhsu.github.io/](https://people.duke.edu/~mp275/">Miroslav Pajic</a> ·
+  <a href="https://panxulab.github.io/">Pan Xu</a>
+</p>
+<p align="center">
+Duke University (<sup>*</sup> indicates equal contribution)
+</p>
 This repo contains code for training randomized exploration strategies for DQN in our work on Randomized Exploration in Cooperative Multi-Agent
 Reinforcement Learning. We build heavily on the repo for our N-chain problems: [Explorer](https://github.com/qlan3/Explorer/tree/master) for baseline comparison.
 
