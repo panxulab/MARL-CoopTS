@@ -11,8 +11,7 @@
 <p align="center">
 Duke University ( <sup>*</sup> indicates equal contribution)
 </p>
-This repo contains code for training randomized exploration strategies for DQN in our work on Randomized Exploration in Cooperative Multi-Agent
-Reinforcement Learning. We build heavily on the repo for our N-chain problems: [Explorer](https://github.com/qlan3/Explorer/tree/master) for baseline comparison.
+Official implementation of the paper "Randomized Exploration in Cooperative Multi-Agent Reinforcement Learning" with both Perturbed-History Exploration and Langevin Monte Carlo Exploration in a multi-agent setting.
 
 ## Requirements
 
