@@ -5,7 +5,7 @@
 <p align="center">
   <a href="https://hlhsu.github.io/">Hao-Lun Hsu</a><sup>*</sup> ·
   <a href="https://scholar.google.com/citations?user=WluAK5cAAAAJ&hl=zh-CN">Weixin Wang</a><sup>*</sup> ·
-  <a href="https://hlhsu.github.io/](https://people.duke.edu/~mp275/">Miroslav Pajic</a> ·
+  <a href="https://people.duke.edu/~mp275/">Miroslav Pajic</a> ·
   <a href="https://panxulab.github.io/">Pan Xu</a>
 </p>
 <p align="center">
