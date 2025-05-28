@@ -48,13 +48,12 @@ To train different exploration strategies for Super Mario Bros task is more stra
 
 ## Citation
 ```
-@article{hsu2024randomized,
-  title={Randomized Exploration in Cooperative Multi-Agent Reinforcement Learning},
-  author={Hsu, Hao-Lun and Wang, Weixin and Pajic, Miroslav and Xu, Pan},
-  journal={Advances in Neural Information Processing Systems},
-  volume={},
-  pages={},
-  year={2024}
+@inproceedings{hsu2024randomized,
+ title = {Randomized Exploration in Cooperative Multi-Agent Reinforcement Learning},
+ author = {Hsu, Hao-Lun and Wang, Weixin and Pajic, Miroslav and Xu, Pan},
+ booktitle = {Advances in Neural Information Processing Systems},
+ pages = {74617--74689},
+ volume = {37},
+ year = {2024}
 }
-
 ```
